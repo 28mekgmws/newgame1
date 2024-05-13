@@ -1,0 +1,42 @@
+name: newgame1
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/ウインナー.png
+    - assets/おにぎり.png
+    - assets/お弁当箱.png
+    - assets/トマト.png
+    - assets/ブロッコリー.png
+    - assets/卵焼き１.png
+    - assets/お弁当屋さん.png
+    - assets/ハンバーグ弁当.png
+    - assets/空のお弁当.png
+    - assets/唐揚げ弁当.png
+    - assets/日の丸弁当.png
+    - assets/幕の内弁当.png
+
+  
+
+
